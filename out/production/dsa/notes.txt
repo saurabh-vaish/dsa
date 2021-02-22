@@ -1,0 +1,18 @@
+======  Dynamic Programming ======
+
+
+There are two approaches to solve a problem using DPP .
+
+1. Memorization     2 .Tabulerization
+
+
+1. Memorization ===  first find solution then make it efficient . [ mostly brute force recursion solution ]
+
+    a. to use this approach break the problem in small ones .
+    b. try to visualize  tree from solution
+    c. implement tree using recursion taking smaller values. [ brute force ]
+    d. test it
+
+    e. add memorization option [ like hashmap ]
+    f. add a base case to return momorize values .
+    g. store return values in momo object
